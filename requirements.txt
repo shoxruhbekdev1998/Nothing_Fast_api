@@ -26,3 +26,12 @@ uvicorn==0.21.1
 websockets==11.0.1
 fastapi-utils==0.2.1
 
+sounddevice==0.4.6
+soupsieve==2.0
+SQLAlchemy==1.4.49
+SQLAlchemy-Utils==0.41.1
+sqlparse==0.4.3
+stack-data==0.6.2
+starlette==0.26.1
+
+
